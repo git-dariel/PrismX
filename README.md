@@ -1,4 +1,4 @@
-# 🚲 PrismX API
+# PrismX API
 
 [![Node.js](https://img.shields.io/badge/Node.js-v14+-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
