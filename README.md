@@ -97,8 +97,8 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/git-tricycle/tricycle-api.git
-   cd tricycle-api
+   git clone https://github.com/git-dariel/PrismX.git
+   cd PrismX
    ```
 
 2. **Install dependencies**
@@ -118,7 +118,7 @@
    ```env
    NODE_ENV=development
    PORT=5000
-   DATABASE_URL="mongodb://localhost:27017/tricycle-db"
+   DATABASE_URL="mongodb://localhost:27017/PrismX-db"
    JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
    FRONTEND_URL=http://localhost:3000
    ```
